@@ -1,0 +1,6 @@
+{
+  "name": "BIG ROOSTER",
+  "description": "Premium fast-food website for BIG ROOSTER - fresh, crispy rooster meals, takeaway, and catering with WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
